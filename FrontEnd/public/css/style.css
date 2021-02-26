@@ -1,0 +1,8 @@
+body {
+    background-color: rgb(37, 139, 139);
+}
+
+.section-message {
+    max-width: 500px;
+    margin: auto;
+}
